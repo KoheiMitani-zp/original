@@ -21,7 +21,6 @@ import org.apache.poi.ss.usermodel.WorkbookFactory;
 
 public class ExcelCreate {
 
-	@SuppressWarnings("unlikely-arg-type")
 	public void uploadExcel(Map<String, String> addressSet, List<String> mailList) throws IOException {
 
 		Workbook workbook = null;
