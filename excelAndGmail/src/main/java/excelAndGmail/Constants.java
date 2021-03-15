@@ -26,5 +26,5 @@ public class Constants {
 
 	static final String CREDENTIALS_FOLDER = "credentials";
 
-	static final String MEMBER = "oko111822@gmail.com";
+	static final String MEMBER = "Your addressi";
 }
